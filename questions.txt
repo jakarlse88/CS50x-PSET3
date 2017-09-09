@@ -1,0 +1,4 @@
+0. Any d * d dimension where between d is between 3 and 9 is fine.
+1. The game board is represented by a two-dimensional integer array.
+2. greet is called to greet player upon start of game.
+3. init, draw, move, and won remain to be implemented.
